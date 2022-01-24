@@ -1,0 +1,24 @@
+.container-fluid{
+    background-color: black;
+}
+
+.container{
+    background-color: lightgray;
+}
+
+.row{
+    padding: 15px 15px;
+    margin: 0px 15px;
+}
+
+#hemisphere{
+    padding: 15px 15px;
+}
+
+tbody{
+    background-color: white;
+}
+
+td:first-child {
+    font-weight: bold
+  }
